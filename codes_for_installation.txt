@@ -1,0 +1,6 @@
+pip install opencv-contrib-python
+
+pip install tensorflow
+
+
+pip install sklearn
